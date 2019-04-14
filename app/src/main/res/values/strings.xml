@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application 1</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+    <string name="display_time">Display time</string>
+    <string name="digitalClock" >Digital Clock</string>
+</resources>
